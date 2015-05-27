@@ -34,37 +34,9 @@ a {
 
 }
 
-.intitle {
-/*    display: none;
-*/    color: 0c5b70;
-    opacity: .9;
-    font-family: 'BenchNine', sans-serif;
-    font-weight: 700;
-    font-size: 75px;
-    opacity: .9;
-    width: auto;
-    line-height: 90%;
-    cursor: pointer;
-
-}
-
-.outtitle {
-/*    display: none;
-*/    color: 700c29;
-    opacity: .9;
-    font-family: 'BenchNine', sans-serif;
-    font-weight: 700;
-    font-size: 75px;
-    opacity: .9;
-    width: auto;
-    line-height: 90%;
-    cursor: pointer;
-
-}
-
 .title {
 /*    display: none;
-*/    color: 70530c;
+*/    color: #70530c;
     opacity: .9;
     font-family: 'BenchNine', sans-serif;
     font-weight: 700;
