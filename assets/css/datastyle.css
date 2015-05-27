@@ -190,6 +190,17 @@ a {
 
 }
 
+.minimal b {
+    display: none;
+    margin-top: -3px;
+    font-family: 'Halant', serif;
+    font-size: 14px;
+    color: #2c2c2c;
+    font-weight: 230;
+}
+
+}
+
 .Kind {
     display: none;
     font-family: 'BenchNine';
