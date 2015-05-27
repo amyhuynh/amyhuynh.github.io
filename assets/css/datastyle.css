@@ -184,7 +184,7 @@ a {
     width: 80%;
     margin: 0 auto;
     position: relative;
-    top: 230px;
+    top: 200px;
     cursor: default;
     overflow: scroll;
 
@@ -193,6 +193,7 @@ a {
 }
 
 .Kind {
+    display: none;
     font-family: 'BenchNine';
     letter-spacing: 5px;
     font-style: 400;
