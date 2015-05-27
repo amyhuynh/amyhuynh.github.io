@@ -186,6 +186,7 @@ a {
     position: relative;
     top: 230px;
     cursor: default;
+    overflow: scroll;
 
 }
 
