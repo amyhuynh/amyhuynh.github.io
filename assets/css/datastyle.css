@@ -188,21 +188,12 @@ a {
 
 }
 
-.Page {
-    display: none;
-    font-family: 'BenchNine';
-    letter-spacing: 5px;
-    font-style: 400;
-    font-size: 35px;
-    color: #2a2a2a;
-}
-
 .Kind {
     display: none;
     font-family: 'BenchNine';
     letter-spacing: 5px;
     font-style: 400;
-    font-size: 25px;
+    font-size: 35px;
     color: #2a2a2a;
 }
 
