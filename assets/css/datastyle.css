@@ -221,7 +221,7 @@ a {
     -o-transition-property: -o-transform;
     transition-property: transform;
 
-    overflow:hidden;
+    overflow:scroll;
 
 }
 
