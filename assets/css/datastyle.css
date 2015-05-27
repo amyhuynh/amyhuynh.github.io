@@ -34,7 +34,7 @@ a {
 
 }
 
-.names {
+.title {
 /*    display: none;
 */    color: white;
     opacity: .9;
@@ -48,22 +48,36 @@ a {
 
 }
 
-#french-press-display{
+.names {
+/*    display: none;
+*/    color: white;
+    opacity: .9;
+    font-family: 'BenchNine', sans-serif;
+    font-weight: 500;
+    font-size: 125px;
+    opacity: .9;
+    width: auto;
+    line-height: 90%;
+    cursor: pointer;
+
+}
+
+#about-display{
     opacity: 0.9;
     transition: 0.3s;
 
 }
-#pour-over-display{
+#findings-display{
     opacity: 0.9;
     transition: 0.3s;
 
 }
-#espresso-display{
+#bg-display{
     opacity: 0.9;
     transition: 0.3s;
 
 }
-#coldbrew-display{
+#discussion-display{
     opacity: 0.9;
     transition: 0.3s;
 
