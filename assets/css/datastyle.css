@@ -189,7 +189,7 @@ a {
     box-sizing: border-box;
      width: 550px;
     height: 400px;
-    overflow: scroll;
+    overflow: auto;
 
 }
 
@@ -209,6 +209,7 @@ a {
     font-size: 14px;
     color: #2c2c2c;
     font-weight: 100;
+    overflow: auto;
 }
 
 .doodle {
