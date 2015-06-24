@@ -190,7 +190,11 @@ a {
      width: 550px;
     height: 400px;
     overflow: auto;
-
+position: absolute;
+top: 100px;
+left: 200px;
+right: 200px;
+bottom: 100px;
 }
 
 .Kind {
@@ -210,6 +214,11 @@ a {
     color: #2c2c2c;
     font-weight: 100;
     overflow: auto;
+    position: absolute;
+top: 100px;
+left: 200px;
+right: 200px;
+bottom: 100px;
 }
 
 .doodle {
